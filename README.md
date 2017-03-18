@@ -1,0 +1,2 @@
+# stargus
+Starcraft Linux version!
